@@ -5,7 +5,7 @@ body {
 
 .parallax {
   /* The image used */
-  /* background-image: url("http://sf.co.ua/13/08/wallpaper-260.jpg"); */
+   background-image: url('./images.hero.png');
 
   /* Set a specific height */
   height: 500px;
@@ -16,10 +16,3 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
-
-/* .hero {
-  height: 92vh;
-  background-image: url('');
-  background-repeat: no-repeat;
-  background-size: cover;
-} */
