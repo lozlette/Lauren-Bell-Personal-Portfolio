@@ -4,7 +4,7 @@
   background-color: rgb(255, 255, 255);
   font-family: 'Open Sans', sans-serif;
 }
-a:hover {
+.navbar-item:hover {
   background-color: #e1eedd;
 }
 
@@ -25,16 +25,37 @@ a:hover {
   background-color: #5c5c57;
 }
 
-@keyframes fadein {
-    from { opacity: 0; }
-    to   { opacity: 1; }
+@-webkit-keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+.fadeIn {
+    -webkit-animation-name: fadeIn;
+	animation-name: fadeIn;
 }
 
 #heroTitle.title {
   color: rgb(194, 221, 185);
   font-family: 'Julius Sans One', sans-serif;
   font-size: 80px;
-  animation-name: fadein 2s;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
   text-align: center;
 }
 
@@ -73,7 +94,7 @@ a:hover {
 }
 
 #sectionPadding.section {
-  padding: 11px 0 11px 0;
+  padding: 12px 0 12px 0;
 }
 
 p {
