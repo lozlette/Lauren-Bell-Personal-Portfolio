@@ -4,12 +4,25 @@
     <meta charset="utf-8">
     <title>Lauren Bell | Junior Full-Stack Web Developer</title>
     <link href="https://fonts.googleapis.com/css?family=Julius+Sans+One" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
     <script src="app.js" charset="utf-8"></script>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.2/css/bulma.css">
   </head>
   <body>
-    <section class="hero is-fullheight parallax"">
+    <nav className="navbar">
+        <div className="container">
+          <div className="navbar-menu">
+            <div className="navbar-end">
+              <Link className="navbar-item" to="#about">About</Link>
+              <Link className="navbar-item" to="#projects">Projects</Link>
+              <Link className="navbar-item" to="#experience">Experience</Link>
+              <Link className="navbar-item" to="#contact">Contact</Link>
+            </div>
+          </div>
+        </div>
+      </nav>
+    <section class="hero is-fullheight parallax">
       <div class="hero-body">
         <div class="container">
           <h1 class="title"  id="heroTitle">
@@ -24,7 +37,7 @@
     <section class="hero colour">
       <div class="hero-body">
         <div class="container">
-          <h1 class="title1">
+          <h1 class="title1" id="about">
             About
           </h1>
         </div>
@@ -48,7 +61,7 @@
     <section class="hero colour">
       <div class="hero-body">
         <div class="container">
-          <h1 class="title1">
+          <h1 class="title1" id="projects">
             Projects
           </h1>
         </div>
@@ -179,8 +192,17 @@
     <section class="hero colour">
       <div class="hero-body">
         <div class="container">
-          <h1 class="title1">
+          <h1 class="title1" id="experience">
             Experience
+          </h1>
+        </div>
+      </div>
+    </section>
+    <section class="hero colour">
+      <div class="hero-body">
+        <div class="container">
+          <h1 class="title1" id="contact">
+            Contact
           </h1>
         </div>
       </div>
