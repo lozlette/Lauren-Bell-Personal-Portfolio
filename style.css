@@ -4,7 +4,8 @@
   background-color: rgb(255, 255, 255);
   font-family: 'Open Sans', sans-serif;
 }
-.navbar-item:hover {
+
+a:hover {
   background-color: #e1eedd;
 }
 
@@ -24,7 +25,7 @@
 
 .hero.colour {
   /* The image used */
-  background-image: linear-gradient(to bottom right, rgba(92, 92, 87, .8), rgba(92, 92, 87, .8)), url('http://www.freeimageslive.com/galleries/transtech/informationtechnology/pics/chiclet_keyboard.jpg');
+  background-image: linear-gradient(to bottom right, rgba(92, 92, 87, .9), rgba(92, 92, 87, .9)), url('http://www.freeimageslive.com/galleries/transtech/informationtechnology/pics/chiclet_keyboard.jpg');
 
   /* Set a specific height */
   height: 500px;
@@ -35,7 +36,7 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
-/*
+
 @-webkit-keyframes fadeIn {
   from {
     opacity: 0;
@@ -60,7 +61,7 @@
   -webkit-animation-delay: 1.5s;
   -moz-animation-delay: 1.5s;
   animation-delay: 1.5s;
-} */
+}
 
 #heroTitle.title {
   color: rgb(194, 221, 185);
