@@ -34,7 +34,7 @@ body {
   }
 }
 
-.title {
+#heroTitle {
   color: rgb(194, 221, 185);
   font-family: 'Julius Sans One', sans-serif;
   font-size: 45px;
@@ -43,7 +43,7 @@ body {
   animation-duration: 9s;
 }
 
-.subtitle {
+#heroSubtitle {
   color: rgb(255, 255, 255);
   font-family: 'Julius Sans One', sans-serif;
   font-size: 20px;
