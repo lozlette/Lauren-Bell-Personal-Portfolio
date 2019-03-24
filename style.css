@@ -1,11 +1,11 @@
 body {
-  color: white;
-  font-family: Helvetica, sans-serif;
+  color: 194, 221, 185;
+  font-family: Julius Sans One, sans-serif;
 }
 
 .parallax {
   /* The image used */
-  background-image: url('./images/hero.png');
+  background-image: url('https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/image/AppleInc/aos/published/images/M/RM/MRMH2/MRMH2?wid=4000&hei=1800&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1520629359080');
 
   /* Set a specific height */
   height: 500px;
