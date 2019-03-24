@@ -1,6 +1,14 @@
-body {
-  background-color: #FFFFFF;
-}
+@import "~bulma/sass/utilities/_all.sass";
+@import "~bulma/sass/base/_all.sass";
+@import "~bulma/sass/components/navbar.sass";
+
+$navbar-background-color: rgb(255, 255, 255);
+$navbar-item-hover-background-color: #e1eedd;
+
+
+/* body {
+  background-color: rgb(255, 255, 255);
+} */
 
 .parallax {
   /* The image used */
@@ -82,4 +90,8 @@ body {
 p {
   font-family: 'Open Sans', sans-serif;
   color: rgb(51, 51, 48);
+}
+
+.navbar {
+  background-color: rgb(255, 255, 255);
 }
