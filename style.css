@@ -1,14 +1,11 @@
-@import "~bulma/sass/utilities/_all.sass";
-@import "~bulma/sass/base/_all.sass";
-@import "~bulma/sass/components/navbar.sass";
-
-$navbar-background-color: rgb(255, 255, 255);
-$navbar-item-hover-background-color: #e1eedd;
 
 
-/* body {
+.navbar {
   background-color: rgb(255, 255, 255);
-} */
+}
+.navbar-item:hover {
+  background-color: #e1eedd;
+}
 
 .parallax {
   /* The image used */
