@@ -55,22 +55,21 @@ a:hover {
     opacity: 1;
   }
 }
-.fadeIn {
+
+.fadeIn.one {
   -webkit-animation-name: fadeIn;
 	animation-name: fadeIn;
-}
-
-.one{
   -webkit-animation-delay: 1s;
   -moz-animation-delay: 1s;
   animation-delay: 1s;
 }
 
-.two{
+.fadeIn.two {
+  -webkit-animation-name: fadeIn;
+	animation-name: fadeIn;
   -webkit-animation-delay: 2.5s;
   -moz-animation-delay: 2.5s;
   animation-delay: 2.5s;
-}
 }
 
 #heroTitle.title {
