@@ -29,17 +29,19 @@ a:hover {
     to   { opacity: 1; }
 }
 
-#heroTitle {
+#heroTitle.title {
   color: rgb(194, 221, 185);
   font-family: 'Julius Sans One', sans-serif;
-  font-size: 65px;
+  font-size: 80px;
   animation-name: fadein 2s;
+  text-align: center;
 }
 
-#heroSubtitle {
+#heroSubtitle.subtitle {
   color: rgb(255, 255, 255);
   font-family: 'Open Sans', sans-serif;
-  font-size: 35px;
+  font-size: 30px;
+  text-align: center;
 }
 
 .green {
@@ -70,7 +72,7 @@ a:hover {
 }
 
 #sectionPadding {
-  padding: 0;
+  padding: 10px 0 10px 0;
 }
 
 p {
