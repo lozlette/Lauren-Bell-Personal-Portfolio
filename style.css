@@ -158,6 +158,7 @@ img {
   color: rgb(51, 51, 48);
   font-family: 'Open Sans', sans-serif;
   font-size: 15px;
+  padding-top: 25px;
 }
 
 .subtitleBio {
@@ -177,7 +178,7 @@ p {
 }
 
 .bio {
-  margin: 15px 0 15px 0;
+  margin: 25px 0 25px 0;
 }
 
 .navbar {
