@@ -107,7 +107,7 @@ img {
   text-align: center;
 }
 
-.column.green.is-one-quarter p {
+.column.green.is-one-quarter.subtitle {
   padding-top: 30px;
   text-align: left;
 }
