@@ -115,7 +115,6 @@ img {
 .column.is-half {
     padding: 30px;
     text-align: center;
-    display: flex;
 }
 
 .column.is-one-quarter {
