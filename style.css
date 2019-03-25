@@ -99,6 +99,7 @@
 img {
   width: 600px;
   height: 250px;
+  box-shadow: 2px 2px 5px rgba(92, 92, 87, .9);
 }
 
 .column.green.is-one-quarter {
@@ -119,7 +120,6 @@ img {
 
 .column.is-half.contact {
     padding: 30px;
-    text-align: center;
     display: flex;
     justify-content: center;
     align-items: center;
