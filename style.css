@@ -96,14 +96,25 @@
   text-align: center;
 }
 
+img {
+  width: 600px;
+  height: 250px;
+}
+
 .column.green.is-one-quarter {
   background-color: #e1eedd;
   padding: 30px 30px 30px 40px;
   text-align: center;
 }
 
+.column.green.is-one-quarter p {
+  padding-top: 30px;
+  text-align: left;
+}
+
 .column.is-half {
     padding: 30px;
+    text-align: center;
 }
 
 .column.is-one-quarter {
