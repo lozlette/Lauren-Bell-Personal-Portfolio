@@ -56,7 +56,7 @@ a:hover {
   }
 }
 
-.fadeIn.one {
+.fadeIn {
   -webkit-animation-name: fadeIn;
 	animation-name: fadeIn;
   -webkit-animation-delay: 1s;
