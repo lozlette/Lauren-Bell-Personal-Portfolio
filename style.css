@@ -165,3 +165,8 @@ p {
 .navbar {
   background-color: rgb(255, 255, 255);
 }
+
+.icons {
+  height: 200px;
+  width: 200px;
+}
