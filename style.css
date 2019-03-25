@@ -115,6 +115,9 @@ img {
 .column.is-half {
     padding: 30px;
     text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .column.is-one-quarter {
@@ -167,6 +170,6 @@ p {
 }
 
 .icons {
-  height: 200px;
-  width: 200px;
+  height: 100px;
+  width: 100px;
 }
