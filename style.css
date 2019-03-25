@@ -1,11 +1,13 @@
 
-$navbar-background-color: rgb(255, 255, 255);
-$navbar-item-hover-color: rgb(194, 221, 185);
-$navbar-item-hover-background-color: rbg(225,238,221);
-
 
 .navbar {
-  font-family: 'Open Sans', sans-serif;
+  background-color: rgb(255, 255, 255) !important;
+  font-family: 'Open Sans', sans-serif !important;
+}
+
+.navbar a:hover {
+  background-color: #e1eedd !important;
+  color: rgb(194, 221, 185) !important;
 }
 
 .parallax {
