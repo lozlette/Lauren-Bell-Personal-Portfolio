@@ -5,8 +5,9 @@
   font-family: 'Open Sans', sans-serif;
 }
 
-a:hover {
+.navbar a:hover {
   background-color: #e1eedd;
+  color: rgb(194, 221, 185);
 }
 
 .parallax {
@@ -28,7 +29,7 @@ a:hover {
   background-image: linear-gradient(to bottom right, rgba(92, 92, 87, .9), rgba(92, 92, 87, .9)), url('http://www.freeimageslive.com/galleries/transtech/informationtechnology/pics/chiclet_keyboard.jpg');
 
   /* Set a specific height */
-  height: 500px;
+  height: 350px;
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
@@ -95,8 +96,9 @@ a:hover {
   text-align: center;
 }
 
-.green {
+.column.green.is-two-fifths {
   background-color: #e1eedd;
+  padding: 30px 30px 30px 40px;
 }
 
 
