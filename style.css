@@ -3,6 +3,7 @@
 .navbar {
   background-color: rgb(255, 255, 255) !important;
   font-family: 'Open Sans', sans-serif !important;
+  color: rgba(92, 92, 87, .9) !important;
 }
 
 .navbar a:hover {
