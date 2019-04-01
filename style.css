@@ -192,7 +192,8 @@
 }
 
 .section.skills.green {
-  height: 168px;
+  height: 150px;
+  padding-bottom: 18px;
 }
 
 p {
