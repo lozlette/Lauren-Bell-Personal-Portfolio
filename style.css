@@ -163,9 +163,10 @@ a:hover {
   justify-content: center;
   align-items: center;
 }
-/* .columns {
+
+.columns.skills {
   width: 700px;
-} */
+}
 
 .skillHeadings {
   height: 160px;
