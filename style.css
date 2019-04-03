@@ -206,11 +206,11 @@
   padding: 12px 0 12px 0;
 }
 
-.section.skills {
+/* .section.skills {
   height: 150px;
-}
+} */
 
-.section.skills.green {
+/* .section.skills.green {
   height: 150px;
   padding: 30px 0 30px 0;
   margin: 9px 0 9px 0;
@@ -218,7 +218,7 @@
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
-}
+} */
 
 p {
   font-family: 'Open Sans', sans-serif;
