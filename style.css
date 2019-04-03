@@ -173,7 +173,7 @@ a:hover {
 }
 
 .columns.skills.smallMedium {
-  width: 500px;
+  width: 700px;
 }
 
 .columns.skills.medium {
@@ -181,7 +181,7 @@ a:hover {
 }
 
 .skillHeadings {
-  height: 140px;
+  height: 142px;
   width: 300px;
   display: flex;
   align-items: center;
