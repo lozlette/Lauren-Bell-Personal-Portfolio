@@ -159,7 +159,7 @@ a:hover {
 .column.skills {
   display: flex;
   flex-wrap: wrap;
-  width: 100px !important;
+  width: 100px;
   justify-content: center;
   align-items: center;
 }
