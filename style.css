@@ -1,9 +1,9 @@
-a:link {
+.contactLinks a:link {
   text-decoration: none;
-  color: rgb(51, 51, 48) !important;
+  color: rgb(51, 51, 48);
 }
-a:hover {
-  color: rgb(194, 221, 185) !important;
+.contactLinks a:hover {
+  color: rgb(194, 221, 185);
 }
 
 .navbar {
@@ -124,7 +124,7 @@ a:hover {
 
 .column.green.is-one-quarter.skills {
   background-color: #e1eedd;
-  padding: 0 30px 30px 40px;
+  padding: 30px 30px 30px 40px;
   text-align: center;
 }
 
@@ -139,7 +139,7 @@ a:hover {
 }
 
 .column.is-half.skills {
-    padding: 0 30px 30px 30px;
+    padding: 30px;
     text-align: center;
     height: 650px;
 }
