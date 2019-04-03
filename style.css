@@ -172,6 +172,14 @@ a:hover {
   width: 200px;
 }
 
+.columns.skills.smallMedium {
+  width: 300px;
+}
+
+.columns.skills.medium {
+  width: 600px;
+}
+
 .skillHeadings {
   height: 160px;
   width: 300px;
