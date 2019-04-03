@@ -172,12 +172,20 @@ a:hover {
   align-items: center;
 }
 
+.column.skills.soft {
+  display: flex;
+  flex-wrap: wrap;
+  width: 150px;
+  justify-content: center;
+  align-items: center;
+}
+
 .columns.skills {
   width: 700px;
 }
 
 .columns.skills.small {
-  width: 200px;
+  width: 300px;
 }
 
 .columns.skills.medium {
