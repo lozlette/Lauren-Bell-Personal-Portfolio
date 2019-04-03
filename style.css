@@ -252,10 +252,10 @@ p.skills {
   width: 100px;
 }
 
-/* .contactLinks a:link {
+a:link {
   text-decoration: none;
   color: rgb(51, 51, 48);
-} */
-.contactLinks a:hover {
+}
+a:hover {
   color: rgb(194, 221, 185);
 }
