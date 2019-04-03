@@ -168,6 +168,10 @@ a:hover {
   width: 700px;
 }
 
+.columns.skills.small {
+  width: 200px;
+}
+
 .skillHeadings {
   height: 160px;
   width: 300px;
