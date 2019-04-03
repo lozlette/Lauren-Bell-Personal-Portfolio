@@ -167,7 +167,7 @@ a:hover {
 .column.skills.soft {
   display: flex;
   flex-wrap: wrap;
-  width: 116.7px;
+  width: 175px;
   justify-content: center;
   align-items: center;
 }
@@ -185,7 +185,7 @@ a:hover {
 }
 
 .skillHeadings {
-  height: 160px;
+  height: 142px;
   width: 300px;
   display: flex;
   align-items: center;
