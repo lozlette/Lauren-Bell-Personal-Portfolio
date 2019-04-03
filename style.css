@@ -110,9 +110,9 @@ a:hover {
 }
 
 .languageIcons {
-  width: 40px;
-  height: 40px;
-  margin: 20px 0 20px 0;
+  width: 60px;
+  height: 60px;
+  margin: 20px;
 
 }
 
@@ -158,6 +158,7 @@ a:hover {
 .column.skills {
   display: flex;
   flex-wrap: wrap;
+  width: 120px;
 }
 .langIconImg {
   display: flex;
