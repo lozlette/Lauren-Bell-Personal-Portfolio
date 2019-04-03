@@ -160,6 +160,7 @@ a:hover {
   display: flex;
   flex-wrap: wrap;
   width: 100px;
+  height: 160px;
   justify-content: center;
   align-items: center;
 }
@@ -177,7 +178,7 @@ a:hover {
 }
 
 .skillHeadings {
-  height: 142px;
+  height: 160px;
   width: 300px;
   display: flex;
   align-items: center;
