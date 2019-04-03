@@ -175,7 +175,7 @@ a:hover {
 .column.skills.soft {
   display: flex;
   flex-wrap: wrap;
-  width: 150px;
+  width: 175px;
   justify-content: center;
   align-items: center;
 }
@@ -185,7 +185,7 @@ a:hover {
 }
 
 .columns.skills.small {
-  width: 100px;
+  width: 200px;
 }
 
 .columns.skills.medium {
