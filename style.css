@@ -155,12 +155,12 @@ a:hover {
     text-align: center;
 }
 
-.column.skills {
+/* .column.skills {
   display: flex;
   justify-content: center;
   align-items: center;
   /* flex-wrap: wrap; */
-}
+} */
 
 .hero-body {
   display: flex;
