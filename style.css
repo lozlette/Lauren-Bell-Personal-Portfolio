@@ -79,6 +79,14 @@ a:hover {
   animation-delay: 2.5s;
 }
 
+.fadeIn.three {
+  -webkit-animation-name: fadeIn;
+	animation-name: fadeIn;
+  -webkit-animation-delay: 3.5s;
+  -moz-animation-delay: 3.5s;
+  animation-delay: 3.5s;
+}
+
 #heroTitle.title {
   color: rgb(194, 221, 185);
   font-family: 'Julius Sans One', sans-serif;
