@@ -89,7 +89,7 @@ a:hover {
 
 #heroTitle.title {
   color: #ff3333;
-  font-family: 'Architects Daughter', sans-serif;
+  font-family: 'Righteous', sans-serif;
   font-size: 80px;
   -webkit-animation-duration: 2s;
   animation-duration: 2s;
@@ -100,7 +100,7 @@ a:hover {
 
 #heroSubtitle.subtitle {
   color: #ff6666;
-  font-family: 'Architects Daughter', sans-serif;
+  font-family: 'Righteous', sans-serif;
   font-size: 30px;
   text-align: center;
   -webkit-animation-duration: 2s;
