@@ -275,6 +275,7 @@ a:hover {
 
 .title2.right{
   color: rgb(0, 51, 102);
+  font-weight: bold;
   font-family: 'Righteous', cursive;
   font-size: 20px;
   margin: 0 0 20px 0;
