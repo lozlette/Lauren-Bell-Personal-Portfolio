@@ -273,8 +273,8 @@ a:hover {
   font-size: 20px;
 }
 
-.title2 right{
-  color: rgb(0, 51, 102) !important;
+.title2.right{
+  color: rgb(0, 51, 102);
   font-family: 'Righteous', cursive;
   font-size: 20px;
   margin: 0 0 20px 0;
