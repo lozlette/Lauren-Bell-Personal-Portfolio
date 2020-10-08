@@ -223,6 +223,9 @@ a:hover {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.skillHeadings.bigger p {
   color: #ffffff;
 }
 
