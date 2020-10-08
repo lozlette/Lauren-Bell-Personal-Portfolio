@@ -32,7 +32,7 @@ a:hover {
 
 .hero.colour {
   /* The image used */
-  background-image: linear-gradient(to bottom right, rgb(0, 51, 102), rgb(0, 51, 102)), url('http://www.freeimageslive.com/galleries/transtech/informationtechnology/pics/chiclet_keyboard.jpg');
+  background-image: linear-gradient(to bottom right, rgb(0, 51, 102), rgb(0, 51, 102)), url('./images/coral.jpg');
 
   /* Set a specific height */
   height: 300px;
