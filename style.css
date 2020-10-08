@@ -260,13 +260,6 @@ a:hover {
   text-align: center;
 }
 
-.title2 right{
-  color: rgb(0, 51, 102);
-  font-family: 'Righteous', cursive;
-  font-size: 20px;
-  margin: 0 0 20px 0;
-}
-
 .title2 {
   color: #ffffff;
   font-family: 'Righteous', cursive;
@@ -278,6 +271,13 @@ a:hover {
   color: #ffffff;
   font-family: 'Righteous', cursive;
   font-size: 20px;
+}
+
+.title2 right{
+  color: rgb(0, 51, 102) !important;
+  font-family: 'Righteous', cursive;
+  font-size: 20px;
+  margin: 0 0 20px 0;
 }
 
 .subtitle {
