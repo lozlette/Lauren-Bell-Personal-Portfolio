@@ -141,18 +141,21 @@ a:hover {
   background-color: #ff3333;
   padding: 30px 30px 30px 40px;
   text-align: center;
+  font-weight: strong;
 }
 
 .column.green.is-one-quarter.skills {
   background-color: #ff3333;
   padding: 30px 30px 30px 40px;
   text-align: center;
+  font-weight: strong;
 }
 
 .column.green.is-one-quarter.subtitle {
   padding-top: 30px;
   text-align: left;
   color: #ffffff;
+  font-weight: strong;
 }
 
 .column.is-half {
@@ -173,6 +176,7 @@ a:hover {
     display: flex;
     justify-content: center;
     align-items: center;
+    font-weight: strong;
 }
 
 .column.is-one-quarter {
