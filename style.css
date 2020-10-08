@@ -20,7 +20,7 @@ a:hover {
 }
 
 .navbar {
-  background-color: rgb(0, 51, 102);
+  background-color: rgb(0, 51, 102) !important;
   font-family: 'Righteous', cursive !important;
   color: #ffffff !important;
 }
