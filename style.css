@@ -197,6 +197,7 @@ a:hover {
   display: flex;
   align-items: center;
   justify-content: center;
+  color: rgb(0, 51, 102);
 }
 
 .skillHeadings.bigger {
@@ -205,6 +206,7 @@ a:hover {
   display: flex;
   align-items: center;
   justify-content: center;
+  color: rgb(0, 51, 102);
 }
 
 .langIconImg {
