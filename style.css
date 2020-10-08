@@ -29,10 +29,7 @@ a:hover {
   background-repeat: no-repeat;
   background-size: cover;
 }
-@media screen and (max-width: 768px) {
-	.parallax_img {
-		background-attachment: inherit;
-	}
+
 
 .hero.colour {
   /* The image used */
