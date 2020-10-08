@@ -145,6 +145,7 @@ a:hover {
     padding: 30px;
     text-align: center;
     color: color: rgb(0, 51, 102);
+    background-color:#ff3333;
 }
 
 .column.is-half.skills {
