@@ -1,3 +1,13 @@
+strong {
+    color: #ffffff;
+    font-weight: 700;
+}
+
+strong right{
+    color: rgb(0, 51, 102);
+    font-weight: 700;
+}
+
 a:link {
   color: rgb(0, 51, 102) !important;
 }
@@ -164,6 +174,7 @@ a:hover {
 .column.is-one-quarter {
     padding: 30px;
     text-align: center;
+    color: rgb(0, 51, 102);
 }
 
 .column.skills {
@@ -283,7 +294,7 @@ a:hover {
 
 p {
   font-family: 'Righteous', cursive;
-  color: rgb(0, 51, 102);
+  color: #ffffff;
 }
 p.skills {
   font-family: 'Righteous', cursive;
