@@ -16,7 +16,7 @@ a:link {
   color: #ffffff !important;
 }
 a:hover {
-  color: #ff3333 !important;
+  color: rgb(0, 51, 102) !important;
 }
 
 .navbar {
