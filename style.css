@@ -138,11 +138,13 @@ a:hover {
 .column.green.is-one-quarter.subtitle {
   padding-top: 30px;
   text-align: left;
+  color: rgb(0, 51, 102);
 }
 
 .column.is-half {
     padding: 30px;
     text-align: center;
+    color: color: rgb(0, 51, 102);
 }
 
 .column.is-half.skills {
