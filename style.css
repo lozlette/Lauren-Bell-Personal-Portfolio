@@ -144,7 +144,7 @@ a:hover {
 .column.is-half {
     padding: 30px;
     text-align: center;
-    color: color: rgb(0, 51, 102);
+    color: color: #ffffff;
     background-color:#ff6666;
 }
 
@@ -200,7 +200,7 @@ a:hover {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: rgb(0, 51, 102);
+  color: #ffffff;
 }
 
 .skillHeadings.bigger {
@@ -209,7 +209,7 @@ a:hover {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: rgb(0, 51, 102);
+  color: #ffffff;
 }
 
 .langIconImg {
@@ -243,8 +243,15 @@ a:hover {
   text-align: center;
 }
 
-.title2 {
+.title2 right{
   color: rgb(0, 51, 102);
+  font-family: 'Righteous', cursive;
+  font-size: 20px;
+  margin: 0 0 20px 0;
+}
+
+.title2 {
+  color: #ffffff;
   font-family: 'Righteous', cursive;
   font-size: 20px;
   margin: 0 0 20px 0;
