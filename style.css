@@ -13,7 +13,7 @@ a:hover {
 
 .navbar a:hover {
   background-color: #ff6666 !important;
-  color: rgb(0, 51, 102) !important;
+  color: #ffffff !important;
 }
 
 .parallax {
@@ -271,7 +271,7 @@ a:hover {
 }
 
 .subtitleBio {
-  color: rgb(0, 51, 102);
+  color: #ffffff;
   font-family: 'Righteous', cursive;
   font-size: 25px;
   font-weight: bold;
@@ -306,6 +306,7 @@ p.skills {
 
 .bio {
   margin: 35px 0 35px 0;
+  color: #ffffff;
 }
 
 .icons {
