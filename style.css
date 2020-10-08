@@ -6,9 +6,9 @@ a:hover {
 }
 
 .navbar {
-  background-image: url('./images/coral.jpg');
+  background-color: rgb(0, 51, 102);
   font-family: 'Righteous', cursive !important;
-  color: rgb(0, 51, 102) !important;
+  color: #ffffff !important;
 }
 
 .navbar a:hover {
