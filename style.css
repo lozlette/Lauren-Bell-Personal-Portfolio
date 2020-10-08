@@ -7,7 +7,7 @@ a:hover {
 
 .navbar {
   background-color: rgb(255, 255, 255) !important;
-  font-family: 'Open Sans', sans-serif !important;
+  font-family: 'Righteous', cursive !important;
   color: rgb(0, 51, 102) !important;
 }
 
@@ -89,7 +89,7 @@ a:hover {
 
 #heroTitle.title {
   color: #ff3333;
-  font-family: 'Righteous', sans-serif;
+  font-family: 'Righteous', cursive;
   font-size: 80px;
   -webkit-animation-duration: 2s;
   animation-duration: 2s;
@@ -100,7 +100,7 @@ a:hover {
 
 #heroSubtitle.subtitle {
   color: #ff6666;
-  font-family: 'Righteous', sans-serif;
+  font-family: 'Righteous', cursive;
   font-size: 30px;
   text-align: center;
   -webkit-animation-duration: 2s;
@@ -226,41 +226,41 @@ a:hover {
 }
 .title {
   color: rgb(0, 26, 51);
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Righteous', cursive;
   font-size: 25px;
   text-align: center;
 }
 
 .title1 {
   color: rgb(255, 255, 255);
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Righteous', cursive;
   font-size: 30px;
   text-align: center;
 }
 
 .title2 {
   color: rgb(0, 26, 51);
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Righteous', cursive;
   font-size: 20px;
   margin: 0 0 20px 0;
 }
 
 .title3 {
   color: rgb(0, 26, 51);
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Righteous', cursive;
   font-size: 20px;
 }
 
 .subtitle {
   color: rgb(0, 26, 51);
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Righteous', cursive;
   font-size: 15px;
   padding-top: 25px;
 }
 
 .subtitleBio {
   color: rgb(0, 26, 51);
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Righteous', cursive;
   font-size: 25px;
   font-weight: bold;
 }
@@ -270,11 +270,11 @@ a:hover {
 }
 
 p {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Righteous', cursive;
   color: rgb(0, 26, 51);
 }
 p.skills {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Righteous', cursive;
   color: rgb(0, 26, 51);
   font-size: 12px;
   text-align: center;
@@ -288,7 +288,7 @@ p.skills {
 
 .footer.grey p{
   color: rgb(255, 255, 255);
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Righteous', cursive;
   font-size: 15px;
 }
 
