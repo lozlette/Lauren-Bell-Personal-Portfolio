@@ -166,7 +166,7 @@ a:hover {
     background-color:#ff6666;
 }
 
-.column.is-half.is-responsive.skills {
+.column.is-half.skills {
     padding: 30px;
     text-align: center;
     height: 1100px;
