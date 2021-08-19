@@ -17,7 +17,7 @@ a:link {
 }
 
 a:hover {
-  color: rgb(0, 51, 102) !important;
+  color: #ff6600 !important;
 }
 
 .navbar {
@@ -56,7 +56,7 @@ a.navbar-item {
    */
 
   /* Set a specific height */
-  height: auto;
+  height: 750px;
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
