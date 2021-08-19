@@ -54,7 +54,7 @@ a.navbar-item {
   background-image: url('./images/coral.jpg');
 
   /* Set a specific height */
-  height: 700px;
+  height: 750px;
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
@@ -107,7 +107,7 @@ a.navbar-item {
 }
 
 #heroTitle.title {
-  color: #ff6666;
+  color: #ff6600;
   font-family: 'Roboto', sans-serif;
   font-size: 80px;
   -webkit-animation-duration: 2s;
@@ -118,7 +118,7 @@ a.navbar-item {
 }
 
 #heroSubtitle.subtitle {
-  color: #ff3333;
+  color: #ff6600;
   font-family: 'Roboto', sans-serif;
   font-size: 30px;
   text-align: center;
