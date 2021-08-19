@@ -13,11 +13,11 @@ strong right{
 }
 
 a:link {
-  color: #ffffff !important;
+  color: #ff6600 !important;
 }
 
 a:hover {
-  color: #ff6600 !important;
+  color: #ffffff !important;
 }
 
 .navbar {
