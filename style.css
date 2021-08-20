@@ -292,21 +292,21 @@ a.navbar-item {
 }
 .title {
   color: rgb(38, 38, 38);
-  font-family: 'Righteous', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 25px;
   text-align: center;
 }
 
 .title1 {
   color: rgb(255, 255, 255);
-  font-family: 'Righteous', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 30px;
   text-align: center;
 }
 
 .title2 {
   color: #ffffff;
-  font-family: 'Righteous', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 20px;
   margin: 0 0 20px 0;
   font-weight: bold;
@@ -314,28 +314,28 @@ a.navbar-item {
 
 .title3 {
   color: #ffffff;
-  font-family: 'Righteous', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 20px;
 }
 
 .title2.right{
   color: #ffffff;
   font-weight: bold;
-  font-family: 'Righteous', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 20px;
   margin: 0 0 20px 0;
 }
 
 .subtitle {
   color: #ffffff;
-  font-family: 'Righteous', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 15px;
   padding-top: 25px;
 }
 
 .subtitleBio {
   color: #ffffff;
-  font-family: 'Righteous', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 25px;
   font-weight: bold;
 }
@@ -345,17 +345,17 @@ a.navbar-item {
 }
 
 p {
-  font-family: 'Righteous', sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: #ffffff;
 }
 
 p.right {
-  font-family: 'Righteous', sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: #ffffff;
 }
 
 p.skills {
-  font-family: 'Righteous', sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: #ffffff;
   font-size: 12px;
   text-align: center;
@@ -369,7 +369,7 @@ p.skills {
 
 .footer.grey p{
   color: rgb(255, 255, 255);
-  font-family: 'Righteous', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 15px;
 }
 
