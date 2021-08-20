@@ -347,10 +347,11 @@ a.navbar-item {
 
 #sectionPadding.section {
   padding: 12px 0 12px 0;
+  margin: none;
 }
 
 .section.title {
-  background-color: rgb(38, 38, 38); 
+  background-color: rgb(38, 38, 38);
 }
 
 p {
