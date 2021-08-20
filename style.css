@@ -7,13 +7,13 @@ body {
 }
 
 strong {
-    color: #ffffff;
-    font-weight: 700;
+  color: #ffffff;
+  font-weight: 700;
 }
 
 strong right{
-    color: #ff6600;
-    font-weight: 700;
+  color: #ff6600;
+  font-weight: 700;
 }
 
 a {
@@ -260,7 +260,7 @@ a.navbar-item {
     background-color: rgb(38, 38, 38);
 }
 
-.skillHeadings {
+.webdev {
   height: 142px;
   width: 300px;
   display: flex;
@@ -270,7 +270,7 @@ a.navbar-item {
   font-weight: bold;
 }
 
-.skillHeadings.bigger {
+/* .webdev.bigger {
   height: 160px;
   width: 300px;
   display: flex;
@@ -279,10 +279,10 @@ a.navbar-item {
   font-weight: bold;
 }
 
-.skillHeadings.bigger p {
+.webdev.bigger p {
   color: #ffffff;
   font-weight: bold;
-}
+} */
 
 .langIconImg {
   display: flex;
