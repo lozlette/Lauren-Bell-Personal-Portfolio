@@ -268,19 +268,13 @@ a.navbar-item {
   font-weight: bold;
 }
 
-/* .webdev.bigger {
-  height: 160px;
+.clouddev {
   width: 300px;
-  display: flex;
   align-items: center;
   justify-content: center;
-  font-weight: bold;
-}
-
-.webdev.bigger p {
   color: #ffffff;
   font-weight: bold;
-} */
+}
 
 .langIconImg {
   display: flex;
