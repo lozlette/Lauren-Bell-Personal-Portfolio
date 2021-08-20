@@ -54,6 +54,7 @@ a.navbar-item {
 
   /* Set a specific height */
   height: 500px;
+  width: auto;
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
@@ -70,6 +71,7 @@ a.navbar-item {
 
   /* Set a specific height */
   height: 750px;
+  width: auto;
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
