@@ -173,21 +173,21 @@ a.navbar-item {
 
 }
 
-.column.green.is-one-quarter {
+.column.left.is-one-quarter {
   background-color: rgb(38, 38, 38);
   padding: 30px 30px 30px 40px;
   text-align: center;
   font-weight: strong;
 }
 
-.column.green.is-one-quarter.skills {
+.column.left.is-one-quarter.skills {
   background-color: rgb(38, 38, 38);
   padding: 30px 30px 30px 40px;
   text-align: center;
   font-weight: strong;
 }
 
-.column.green.is-one-quarter.subtitle {
+.column.left.is-one-quarter.subtitle {
   padding-top: 30px;
   text-align: left;
   color: #ffffff;
