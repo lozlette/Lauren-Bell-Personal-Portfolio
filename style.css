@@ -41,7 +41,7 @@ a:hover {
 }
 
 a.navbar-item {
-  color: #ffffff;
+  color: #ffffff !important;
 }
 
 .parallax {
@@ -218,6 +218,7 @@ a.navbar-item {
 .column.is-one-quarter {
     padding: 30px;
     text-align: center;
+    background-color:rgb(38, 38, 38);
 }
 
 .column.skills {
