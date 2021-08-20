@@ -173,35 +173,35 @@ a.navbar-item {
 
 }
 
-.column.left.is-one-quarter {
+.column.left.is-half {
   background-color: rgb(38, 38, 38);
   padding: 30px 30px 30px 40px;
   text-align: center;
   font-weight: strong;
 }
 
-.column.left.is-one-quarter.skills {
+.column.left.is-half.skills {
   background-color: rgb(38, 38, 38);
   padding: 30px 30px 30px 40px;
   text-align: center;
   font-weight: strong;
 }
 
-.column.left.is-one-quarter.subtitle {
+.column.left.is-half.subtitle {
   padding-top: 30px;
   text-align: left;
   color: #ffffff;
   font-weight: strong;
 }
 
-.column.is-half {
+.column.right.is-half {
     padding: 30px;
     text-align: center;
     color: color: #ffffff;
     background-color:rgb(38, 38, 38);
 }
 
-.column.is-half.skills {
+.column.right.is-half.skills {
     padding: 30px;
     text-align: center;
     height: 1100px;
