@@ -349,6 +349,10 @@ a.navbar-item {
   padding: 12px 0 12px 0;
 }
 
+.section.title {
+  background-color: rgb(38, 38, 38); 
+}
+
 p {
   font-family: 'Roboto', sans-serif;
   color: #ffffff;
