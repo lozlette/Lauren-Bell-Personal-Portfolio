@@ -218,7 +218,7 @@ a.navbar-item {
 .column.is-one-quarter {
     padding: 30px;
     text-align: center;
-    background-color:rgb(38, 38, 38);
+    background-color: rgb(38, 38, 38);
 }
 
 .column.skills {
@@ -247,6 +247,11 @@ a.navbar-item {
 
 .columns.skills.medium {
   width: 650px;
+}
+
+.columns:last-child {
+    margin-bottom: -0.75rem;
+    background-color: rgb(38, 38, 38);
 }
 
 .skillHeadings {
