@@ -8,11 +8,20 @@ strong {
 }
 
 strong right{
-    color: rgb(0, 51, 102);
+    color: #ff6600;
     font-weight: 700;
 }
 
+a {
+  text-decoration: none;
+  color: #ff6600 !important;
+}
+
 a:link {
+  color: #ff6600 !important;
+}
+
+a:visited {
   color: #ff6600 !important;
 }
 
