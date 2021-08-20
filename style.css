@@ -351,6 +351,10 @@ a.navbar-item {
   margin-bottom: 0px;
 }
 
+.section.about.is-fullheight {
+  background-color: rgb(38, 38, 38);
+}
+
 .section.title {
   background-color: rgb(38, 38, 38);
   padding: 30px 0 30px 0;
