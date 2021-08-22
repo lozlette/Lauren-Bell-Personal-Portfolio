@@ -182,14 +182,14 @@ a.navbar-item {
 
 .column.left.is-half {
   background-color: rgb(38, 38, 38);
-  padding: 30px 30px 30px 40px;
+  padding: 30px 30px 30px 30px;
   text-align: center;
   font-weight: strong;
 }
 
 .column.left.is-half.skills {
   background-color: rgb(38, 38, 38);
-  padding: 30px 30px 30px 40px;
+  padding: 30px 30px 30px 30px;
   text-align: center;
   font-weight: strong;
   height: fit-content;
