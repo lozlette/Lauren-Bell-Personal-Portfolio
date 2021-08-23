@@ -82,12 +82,6 @@ a.navbar-item {
 
 }
 
-@media screen and (max-device-width: 480px){
-
-.hero.is-fullheight.colour {
-background-image: url(smallclouds.jpg);
-}
-
 @-webkit-keyframes fadeIn {
   from {
     opacity: 0;
@@ -137,6 +131,12 @@ background-image: url(smallclouds.jpg);
   -webkit-animation-delay: 4.5s;
   -moz-animation-delay: 4.5s;
   animation-delay: 4.5s;
+}
+
+@media screen and (max-device-width: 480px){
+
+.hero.is-fullheight.colour {
+background-image: url('./image/smallclouds.jpg');
 }
 
 #heroTitle.title {
