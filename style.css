@@ -144,7 +144,7 @@ a.navbar-item {
   text-align: center;
 }
 
-#heroSubtitle.subtitle {
+#heroSubtitle {
   color: #ffffff;
   font-family: 'Roboto', sans-serif;
   font-size: 30px;
@@ -156,7 +156,7 @@ a.navbar-item {
   text-align: center;
 }
 
-#heroSubtitle2.subtitle {
+#heroSubtitle2 {
   color: #ff6600;
   font-family: 'Roboto', sans-serif;
   font-size: 80px;
@@ -166,6 +166,7 @@ a.navbar-item {
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
   text-align: center;
+  padding-top: 0;
 }
 
 .hero-body {
@@ -350,11 +351,10 @@ a.navbar-item {
   margin: 0 0 20px 0;
 }
 
-.subtitle {
-  color: #ffffff;
+.arrow {
+  color: #ff6600;
   font-family: 'Roboto', sans-serif;
-  font-size: 15px;
-  padding-top: 25px;
+  font-size: 65px;
 }
 
 .subtitleBio {
