@@ -133,12 +133,6 @@ a.navbar-item {
   animation-delay: 4.5s;
 }
 
-@media screen and (max-device-width: 480px){
-
-.hero.is-fullheight.colour {
-background-image: url('./image/smallclouds.jpg');
-}
-
 #heroTitle.title {
   color: #ffffff;
   font-family: 'Roboto', sans-serif;
@@ -411,4 +405,10 @@ p.skills {
 .icons {
   height: 100px;
   width: 100px;
+}
+
+@media screen and (max-device-width: 480px){
+
+.hero.is-fullheight.colour {
+background-image: url('./image/smallclouds.jpg');
 }
