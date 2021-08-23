@@ -219,14 +219,6 @@ a.navbar-item {
 
 .column.right.is-one-quarter.skills {
   background-color: rgb(38, 38, 38);
-  padding: 30px 30px 30px 30px;
-  text-align: center;
-  font-weight: strong;
-}
-
-.column.right.is-one-quarter.skills {
-  background-color: rgb(38, 38, 38);
-  /* padding: 30px 30px 30px 30px; */
   text-align: center;
   font-weight: strong;
 }
