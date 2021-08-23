@@ -175,17 +175,12 @@ a.navbar-item {
   width: 100%;
 }
 
-#sectionPadding.section {
+#sectionPadding {
   padding: 0;
   margin-bottom: 0px;
 }
 
-.section.is-fullheight.about {
-  background-color: rgb(38, 38, 38);
-  height: 100vh;
-}
-
-.section.is-fullheight.skills {
+.section.is-fullheight {
   background-color: rgb(38, 38, 38);
   height: 100vh;
 }
@@ -198,28 +193,21 @@ a.navbar-item {
 
 .column.left.is-one-quarter {
   background-color: rgb(38, 38, 38);
-  padding: 30px 30px 30px 30px;
+  width: 0.25vw;
   text-align: center;
   font-weight: strong;
 }
 
 .column.left.is-one-quarter.skills {
   background-color: rgb(38, 38, 38);
-  padding: 30px 30px 30px 30px;
+  width: 0.25vw;
   text-align: center;
   font-weight: strong;
   height: fit-content;
 }
 
-.column.left.is-one-quarter.subtitle {
-  padding-top: 30px;
-  text-align: left;
-  color: #ffffff;
-  font-weight: strong;
-}
-
 .column.center.is-half {
-    padding: 30px;
+    width: 0.5vw;
     text-align: center;
     color: color: #ffffff;
     background-color:rgb(38, 38, 38);
