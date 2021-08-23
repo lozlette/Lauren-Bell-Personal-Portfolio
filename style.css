@@ -193,21 +193,18 @@ a.navbar-item {
 
 .column.left.is-one-quarter {
   background-color: rgb(38, 38, 38);
-  width: 0.25vw;
   text-align: center;
   font-weight: strong;
 }
 
 .column.left.is-one-quarter.skills {
   background-color: rgb(38, 38, 38);
-  width: 0.25vw;
   text-align: center;
   font-weight: strong;
   height: fit-content;
 }
 
 .column.center.is-half {
-    width: 0.5vw;
     text-align: center;
     color: color: #ffffff;
     background-color:rgb(38, 38, 38);
