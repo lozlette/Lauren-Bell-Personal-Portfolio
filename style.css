@@ -183,6 +183,7 @@ a.navbar-item {
 .section.is-fullheight {
   background-color: rgb(38, 38, 38);
   height: 100vh;
+  padding: 0;
 }
 
 .section.title {
@@ -210,10 +211,10 @@ a.navbar-item {
     background-color:rgb(38, 38, 38);
 }
 
-.column.center.is-half.skills {
+/* .column.center.is-half.skills {
     padding: 30px;
     text-align: center;
-}
+} */
 
 .column.right.is-one-quarter.skills {
   background-color: rgb(38, 38, 38);
