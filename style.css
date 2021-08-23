@@ -174,13 +174,6 @@ a.navbar-item {
   box-shadow: 2px 2px 5px #ffffff;
 }
 
-.languageIcons {
-  width: 60px;
-  height: 60px;
-  margin: 20px 0 20px 0;
-
-}
-
 .column.left.is-one-quarter {
   background-color: rgb(38, 38, 38);
   padding: 30px 30px 30px 30px;
@@ -213,7 +206,6 @@ a.navbar-item {
 .column.center.is-half.skills {
     padding: 30px;
     text-align: center;
-    /* height: fit-content; */
 }
 
 .column.right.is-one-quarter.skills {
@@ -228,7 +220,6 @@ a.navbar-item {
   padding: 30px 30px 30px 30px;
   text-align: center;
   font-weight: strong;
-  height: fit-content;
 }
 
 .column.right.is-one-quarter.subtitle {
@@ -252,13 +243,12 @@ a.navbar-item {
     background-color: rgb(38, 38, 38);
 }
 
-/* .column.skills {
+.column.skills {
   display: flex;
   flex-wrap: wrap;
-  width: 100px;
   justify-content: center;
   align-items: center;
-} */
+}
 
 /* .column.skills.soft {
   display: flex;
@@ -308,18 +298,6 @@ a.navbar-item {
   color: #ffffff;
   font-weight: bold;
 }
-
-/* .langIconImg {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.langIconP {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-} */
 
 .hero-body {
   display: flex;
