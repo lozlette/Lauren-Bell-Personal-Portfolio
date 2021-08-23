@@ -38,6 +38,7 @@ a:hover {
   font-family: 'Roboto', sans-serif;
   font-weight: bold;
   color: #ffffff !important;
+  width: 100%;
 }
 
 .navbar a:hover {
@@ -184,7 +185,7 @@ a.navbar-item {
 .section.is-fullheight {
   background-color: rgb(38, 38, 38);
   height: 100vh;
-  padding: 0;
+  /* padding: 0; */
 }
 
 .section.title {
@@ -343,10 +344,11 @@ a.navbar-item {
   margin: 0 0 20px 0;
 }
 
-.arrow {
+.h3.arrow {
   color: #ff6600;
   font-family: 'Roboto', sans-serif;
   font-size: 65px;
+  align: center;
 }
 
 .subtitleBio {
