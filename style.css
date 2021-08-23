@@ -181,14 +181,14 @@ a.navbar-item {
 
 }
 
-.column.left.is-half {
+.column.left.is-one-quarter {
   background-color: rgb(38, 38, 38);
   padding: 30px 30px 30px 30px;
   text-align: center;
   font-weight: strong;
 }
 
-.column.left.is-half.skills {
+.column.left.is-one-quarter.skills {
   background-color: rgb(38, 38, 38);
   padding: 30px 30px 30px 30px;
   text-align: center;
@@ -196,24 +196,46 @@ a.navbar-item {
   height: fit-content;
 }
 
-.column.left.is-half.subtitle {
+.column.left.is-one-quarter.subtitle {
   padding-top: 30px;
   text-align: left;
   color: #ffffff;
   font-weight: strong;
 }
 
-.column.right.is-half {
+.column.center.is-half {
     padding: 30px;
     text-align: center;
     color: color: #ffffff;
     background-color:rgb(38, 38, 38);
 }
 
-.column.right.is-half.skills {
+.column.center.is-half.skills {
     padding: 30px;
     text-align: center;
     /* height: fit-content; */
+}
+
+.column.right.is-one-quarter {
+  background-color: rgb(38, 38, 38);
+  padding: 30px 30px 30px 30px;
+  text-align: center;
+  font-weight: strong;
+}
+
+.column.right.is-one-quarter.skills {
+  background-color: rgb(38, 38, 38);
+  padding: 30px 30px 30px 30px;
+  text-align: center;
+  font-weight: strong;
+  height: fit-content;
+}
+
+.column.right.is-one-quarter.subtitle {
+  padding-top: 30px;
+  text-align: left;
+  color: #ffffff;
+  font-weight: strong;
 }
 
 .column.is-half.contact {
