@@ -216,7 +216,7 @@ a.navbar-item {
     /* height: fit-content; */
 }
 
-.column.right.is-one-quarter {
+.column.right.is-one-quarter.skills {
   background-color: rgb(38, 38, 38);
   padding: 30px 30px 30px 30px;
   text-align: center;
@@ -252,15 +252,15 @@ a.navbar-item {
     background-color: rgb(38, 38, 38);
 }
 
-.column.skills {
+/* .column.skills {
   display: flex;
   flex-wrap: wrap;
   width: 100px;
   justify-content: center;
   align-items: center;
-}
+} */
 
-.column.skills.soft {
+/* .column.skills.soft {
   display: flex;
   flex-wrap: wrap;
   width: 116.7px;
@@ -270,15 +270,15 @@ a.navbar-item {
 
 .columns.skills {
   width: 700px;
-}
+} */
 
-.columns.skills.small {
+/* .columns.skills.small {
   width: 200px;
 }
-
-.columns.skills.medium {
+ */
+/* .columns.skills.medium {
   width: 650px;
-}
+} */
 
 .columns:last-child {
     margin-bottom: -0.75rem;
