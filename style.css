@@ -411,4 +411,6 @@ p.skills {
 
 .hero.is-fullheight.colour {
 background-image: url('./images/smallclouds.jpg');
+height: auto;
+width: auto;
 }
