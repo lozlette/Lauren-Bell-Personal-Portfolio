@@ -301,6 +301,14 @@ a.navbar-item {
   font-weight: bold;
 }
 
+.softskills {
+  width: 300px;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+  font-weight: bold;
+}
+
 /* .langIconImg {
   display: flex;
   justify-content: center;
