@@ -351,11 +351,11 @@ a.navbar-item {
   margin-bottom: 0px;
 }
 
-.section.about.is-fullheight {
+.section.is-fullheight.about {
   background-color: rgb(38, 38, 38);
 }
 
-.section.skills.is-fullheight {
+.section.is-fullheight.skills {
   background-color: rgb(38, 38, 38);
 }
 
