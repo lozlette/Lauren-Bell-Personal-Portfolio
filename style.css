@@ -234,8 +234,8 @@ a.navbar-item {
 }
 
 .projectImg {
-  width: 350px;
-  height: 150px;
+  width: 150px;
+  height: 75px;
   box-shadow: 2px 2px 5px #ffffff;
 }
 
@@ -292,16 +292,6 @@ a.navbar-item {
 }
 
 p {
-  font-family: 'Roboto', sans-serif;
-  color: #ffffff;
-}
-
-p.right {
-  font-family: 'Roboto', sans-serif;
-  color: #ffffff;
-}
-
-p.skills {
   font-family: 'Roboto', sans-serif;
   color: #ffffff;
   font-size: 12px;
