@@ -185,6 +185,7 @@ a.navbar-item {
 .section {
   padding: 0;
   margin-bottom: 0px;
+  margin-top: 0px;
 }
 
 .section.is-fullheight {
