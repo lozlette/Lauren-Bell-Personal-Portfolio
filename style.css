@@ -348,7 +348,7 @@ a.navbar-item {
   color: #ff6600;
   font-family: 'Roboto', sans-serif;
   font-size: 65px;
-  align: center;
+  align-items: center;
 }
 
 .subtitleBio {
