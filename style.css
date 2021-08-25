@@ -6,16 +6,6 @@ body {
   color: rgb(38, 38, 38);
 }
 
-/* strong {
-  color: #ffffff;
-  font-weight: 700;
-} */
-
-/* strong right{
-  color: #ff6600;
-  font-weight: 700;
-} */
-
 a {
   text-decoration: none;
   color: #ff6600 !important;
@@ -177,13 +167,8 @@ a.navbar-item {
   width: 100%;
 }
 
-/* #sectionPadding {
-  padding: 0;
-  margin-bottom: 0px;
-} */
-
 .section {
-  padding: 0;
+  padding: 0 !important;
   margin-bottom: 0px;
   margin-top: 0px;
 }
@@ -212,24 +197,6 @@ a.navbar-item {
     background-color:rgb(38, 38, 38);
 }
 
-/* .column.center.is-half.skills {
-    padding: 30px;
-    text-align: center;
-} */
-/*
-.column.right.is-one-quarter {
-  background-color: rgb(38, 38, 38);
-  text-align: center;
-  font-weight: strong;
-} */
-
-/* .column.right.is-one-quarter.subtitle {
-  padding-top: 30px;
-  text-align: left;
-  color: #ffffff;
-  font-weight: strong;
-} */
-
 .column.is-half.contact {
     /* padding: 30px; */
     display: flex;
@@ -238,12 +205,6 @@ a.navbar-item {
     font-weight: strong;
 }
 
-/* .column.is-one-quarter {
-    /* padding: 30px; */
-    /* text-align: center;
-    background-color: rgb(38, 38, 38);
-} */
-
 .column.skills {
   display: flex;
   flex-wrap: wrap;
@@ -251,33 +212,7 @@ a.navbar-item {
   align-items: center;
 }
 
-/* .column.skills.soft {
-  display: flex;
-  flex-wrap: wrap;
-  width: 116.7px;
-  justify-content: center;
-  align-items: center;
-}
-
-.columns.skills {
-  width: 700px;
-} */
-
-/* .columns.skills.small {
-  width: 200px;
-}
- */
-/* .columns.skills.medium {
-  width: 650px;
-} */
-/*
-.columns:last-child {
-    margin-bottom: -0.75rem;
-    background-color: rgb(38, 38, 38);
-} */
-
 .webdev {
-  /* width: 300px; */
   align-items: center;
   justify-content: center;
   color: #ffffff;
@@ -285,7 +220,6 @@ a.navbar-item {
 }
 
 .clouddev {
-  /* width: 300px; */
   align-items: center;
   justify-content: center;
   color: #ffffff;
@@ -293,7 +227,6 @@ a.navbar-item {
 }
 
 .softskills {
-  /* width: 300px; */
   align-items: center;
   justify-content: center;
   color: #ffffff;
