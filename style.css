@@ -6,15 +6,15 @@ body {
   color: rgb(38, 38, 38);
 }
 
-strong {
+/* strong {
   color: #ffffff;
   font-weight: 700;
-}
+} */
 
-strong right{
+/* strong right{
   color: #ff6600;
   font-weight: 700;
-}
+} */
 
 a {
   text-decoration: none;
@@ -200,7 +200,7 @@ a.navbar-item {
   font-weight: strong;
 }
 
-.column.center.is-half {
+.column.is-half {
     text-align: center;
     color: color: #ffffff;
     background-color:rgb(38, 38, 38);
