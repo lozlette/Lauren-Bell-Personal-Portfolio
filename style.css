@@ -182,6 +182,11 @@ a.navbar-item {
   margin-bottom: 0px;
 } */
 
+.section {
+  padding: 0;
+  margin-bottom: 0px;
+}
+
 .section.is-fullheight {
   background-color: rgb(38, 38, 38);
   height: 100vh;
