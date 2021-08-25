@@ -177,10 +177,10 @@ a.navbar-item {
   width: 100%;
 }
 
-#sectionPadding {
+/* #sectionPadding {
   padding: 0;
   margin-bottom: 0px;
-}
+} */
 
 .section.is-fullheight {
   background-color: rgb(38, 38, 38);
