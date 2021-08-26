@@ -198,11 +198,16 @@ a.navbar-item {
 }
 
 .column.is-half.contact {
-    /* padding: 30px; */
     display: flex;
     justify-content: center;
     align-items: center;
     font-weight: strong;
+}
+
+.column.is-one-third {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .column.skills {
@@ -261,6 +266,7 @@ a.navbar-item {
   font-size: 20px;
   margin: 0 0 20px 0;
   font-weight: bold;
+  text-align: center;
 }
 
 .title3 {
@@ -301,7 +307,7 @@ p {
 p.bio {
   font-family: 'Roboto', sans-serif;
   color: #ffffff;
-  font-size: 14px;
+  font-size: 16px;
   text-align: center;
 }
 
