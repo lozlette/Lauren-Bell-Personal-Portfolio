@@ -234,8 +234,8 @@ a.navbar-item {
 }
 
 .projectImg {
-  width: 125px;
-  height: 75px;
+  width: 250px;
+  height: 150px;
   box-shadow: 2px 2px 5px #ffffff;
 }
 
@@ -295,6 +295,13 @@ p {
   font-family: 'Roboto', sans-serif;
   color: #ffffff;
   font-size: 10px;
+  text-align: center;
+}
+
+p.bio {
+  font-family: 'Roboto', sans-serif;
+  color: #ffffff;
+  font-size: 12px;
   text-align: center;
 }
 
