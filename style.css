@@ -205,7 +205,6 @@ a.navbar-item {
 }
 
 .column.is-one-third {
-  display: flex;
   justify-content: center;
   align-items: center;
 }
@@ -238,10 +237,15 @@ a.navbar-item {
   font-weight: bold;
 }
 
+.projImgBox {
+  align-items: center;
+}
+
 .projectImg {
   width: 250px;
   height: 150px;
   box-shadow: 2px 2px 5px #ffffff;
+
 }
 
 .title {
