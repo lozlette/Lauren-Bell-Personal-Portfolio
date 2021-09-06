@@ -167,13 +167,6 @@ a.navbar-item {
   width: 100%;
 }
 
-.hero-body.responsive {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 100%;
-}
-
 .section {
   padding: 0 !important;
   margin-bottom: 0px;
@@ -348,12 +341,13 @@ p.bio {
 
 .hero.is-fullheight.is-mobile.colour {
 background-image: url('./images/clouds4.jpg');
-height: 0vh;
+height: 100vh;
+width: 100vw;
 }
 
 .section.is-fullheight {
   background-color: rgb(38, 38, 38);
-  height: 65vh;
+  height: 55vh;
   width: 100vw;
 }
 }
