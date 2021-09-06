@@ -363,7 +363,7 @@ width: 100vw;
 
 .hero.is-fullheight.is-mobile.colour {
 background-image: url('./images/clouds4.jpg');
-background-size: 480px auto;
+background-size: auto auto;
 height: 100vh;
 width: 100vw;
 }
