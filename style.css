@@ -177,6 +177,7 @@ a.navbar-item {
   background-color: rgb(38, 38, 38);
   display: block;
   overflow: auto;
+  min-height: 100%;
 }
 
 .section.title {
@@ -361,6 +362,7 @@ width: 100vw;
   background-color: rgb(38, 38, 38);
   display: block;
   overflow: auto;
+  min-height: 100%;
 }
 
 .column.is-one-quarter {
@@ -387,7 +389,6 @@ background-repeat: no-repeat;
   background-color: rgb(38, 38, 38);
   display: block;
   overflow: auto;
-  min-height: 100%;
 }
 
 .column.is-one-quarter {
