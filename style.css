@@ -395,6 +395,7 @@ background-repeat: no-repeat;
   background-color: rgb(38, 38, 38);
   display: block;
   overflow: auto;
+  min-height: 75vh;
 }
 
 .column.is-one-quarter {
