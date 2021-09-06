@@ -189,6 +189,7 @@ a.navbar-item {
   background-color: rgb(38, 38, 38);
   text-align: center;
   font-weight: strong;
+  width: 24.4%;
 }
 
 .column.is-half {
@@ -353,7 +354,7 @@ width: 100vw;
 }
 
 .column.is-one-quarter {
-  width: 24.5%;
+  width: 24.4%;
 }
 }
 
@@ -372,6 +373,6 @@ width: 100vw;
 }
 
 .column.is-one-quarter {
-  width: 24.5%;
+  width: 24.4%;
 }
 }
