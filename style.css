@@ -340,17 +340,12 @@ p.bio {
 @media screen and (max-device-width: 480px){
 
 .hero.is-fullheight.colour {
-background-image: url('./images/clouds5.jpg');
-height: 100vh;
-width: 100vw;
-
-/* background-attachment: fixed;
-background-size: cover; */
+background-image: none;
 }
 
 .section.is-fullheight {
   background-color: rgb(38, 38, 38);
-  height: 50vh;
+  height: 65vh;
   width: 100vw;
 }
 }
