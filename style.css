@@ -347,7 +347,7 @@ p.bio {
 @media screen and (max-device-width: 480px){
 
 .hero.is-fullheight.colour {
-background-image: none;
+background-image: url('./images/herogrey.png');
 height: 0vh;
 }
 
