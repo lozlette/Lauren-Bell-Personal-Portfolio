@@ -310,7 +310,7 @@ p {
 }
 
 p.skills {
-  padding: 3px;
+  padding: 1.5px;
 }
 
 p.bio {
@@ -343,11 +343,10 @@ p.bio {
 }
 
 
-@media screen and (max-device-width: 769px){
+/* @media screen and (max-device-width: 769px){
 
 .hero.is-fullheight.is-mobile.colour {
 background-image: url('./images/clouds4.jpg');
-/* background-size: 150px;  */
 height: 100vh;
 width: 100vw;
 }
@@ -361,7 +360,11 @@ width: 100vw;
 .column.is-one-quarter {
   width: 24.4%;
 }
+
+p.skills {
+  padding: 1.5px;
 }
+} */
 
 @media screen and (max-device-width: 480px){
 
@@ -382,5 +385,9 @@ background-repeat: no-repeat;
 
 .column.is-one-quarter {
   width: 24.4%;
+}
+
+p.skills {
+  padding: 3px;
 }
 }
