@@ -28,7 +28,7 @@ a:hover {
   font-family: 'Roboto', sans-serif;
   font-weight: bold;
   color: #ffffff !important;
-  width: 100%;
+  width: 100vw;
 }
 
 .navbar a:hover {
@@ -55,7 +55,7 @@ a.navbar-item {
   background-size: cover;
 }
 
-.hero.is-fullheight.colour {
+.hero.is-fullheight.is-mobile.colour {
   /* The image used */
   background-image: url('./images/clouds4.jpg');
   /* Photo by <a href="https://unsplash.com/@joeting?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">joe ting</a> on <a href="https://unsplash.com/s/photos/orange-clouds?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
@@ -346,13 +346,9 @@ p.bio {
 
 @media screen and (max-device-width: 480px){
 
-.hero.is-fullheight.colour {
-background-image: url('./images/herogrey.png');
+.hero.is-fullheight.is-mobile.colour {
+background-image: url('./images/clouds4.jpg');
 height: 0vh;
-}
-
-.hero-body.responsive {
-  height: 0vh;
 }
 
 .section.is-fullheight {
