@@ -185,6 +185,12 @@ a.navbar-item {
   margin-bottom: 0px;
 }
 
+.columns {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+}
+
 .column.is-one-quarter {
   background-color: rgb(38, 38, 38);
   text-align: center;
