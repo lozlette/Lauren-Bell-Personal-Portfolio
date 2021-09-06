@@ -341,6 +341,7 @@ p.bio {
 
 .hero.is-fullheight.colour {
 background-image: none;
+height: 0vh;
 }
 
 .section.is-fullheight {
