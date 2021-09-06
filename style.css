@@ -382,6 +382,10 @@ display: none;
   width: 24.4%;
 }
 
+.title1 {
+text-align: center;
+}
+
 p.skills {
   padding: 1.5px;
 }
@@ -406,6 +410,10 @@ display: none;
 
 .column.is-one-quarter {
   width: 24.4%;
+}
+
+.title1 {
+text-align: center;
 }
 
 p.skills {
