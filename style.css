@@ -350,4 +350,8 @@ width: 100vw;
   height: 55vh;
   width: 100vw;
 }
+
+.column.is-one-quarter {
+  width: 24.5%;
+}
 }
