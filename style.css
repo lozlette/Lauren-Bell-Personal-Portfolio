@@ -167,6 +167,13 @@ a.navbar-item {
   width: 100%;
 }
 
+.hero-body.responsive {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
 .section {
   padding: 0 !important;
   margin-bottom: 0px;
@@ -342,6 +349,10 @@ p.bio {
 .hero.is-fullheight.colour {
 background-image: none;
 height: 0vh;
+}
+
+.hero-body.responsive {
+  height: 0vh;
 }
 
 .section.is-fullheight {
