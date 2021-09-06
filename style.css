@@ -368,7 +368,7 @@ p.skills {
 
 @media screen and (max-device-width: 480px){
 
-.hero.is-fullheight.is-mobile.colour {
+.hero.is-fullheight.is-hidden-mobile.colour {
 background-image: url('./images/clouds4.jpg');
 background-size: 100vw 100vh;
 
