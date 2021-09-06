@@ -343,7 +343,7 @@ p.bio {
 }
 
 
-/* @media screen and (max-device-width: 769px){
+@media screen and (max-device-width: 769px){
 
 .hero.is-fullheight.is-mobile.colour {
 background-image: url('./images/clouds4.jpg');
@@ -364,7 +364,7 @@ width: 100vw;
 p.skills {
   padding: 1.5px;
 }
-} */
+}
 
 @media screen and (max-device-width: 480px){
 
