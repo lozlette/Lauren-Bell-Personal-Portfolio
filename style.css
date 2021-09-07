@@ -167,7 +167,7 @@ a.navbar-item {
   padding: 0;
   margin-bottom: 0px; }
 
-.columns.is-flex-tablet.is-flex-desktop {
+.columns.is-flex-tablet-only.is-flex-desktop-only {
   flex-direction: row;
   align-items: stretch; }
 
