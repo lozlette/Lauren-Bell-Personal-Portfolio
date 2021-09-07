@@ -310,7 +310,7 @@ p.bio {
 hr.zig, hr.zag {
   border: none;
   height: 37.5px;
-  margin: 0 60px; }
+  margin: 0 700px 0 0; }
 
 hr.zig {
   background: linear-gradient(-144deg, #262626 20px, rgba(0, 0, 0, 0) 0) 0 20px, linear-gradient(144deg, #262626 20px, rgba(0, 0, 0, 0) 0) 0 20px;
