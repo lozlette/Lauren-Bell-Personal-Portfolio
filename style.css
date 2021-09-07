@@ -189,7 +189,7 @@ a.navbar-item {
   align-items: center;
   font-weight: strong; }
 
-.column.is-one-third {
+.column.is-one-third-desktop.is-one-third-tablet.is-half-mobile {
   justify-content: center;
   align-items: center; }
 
