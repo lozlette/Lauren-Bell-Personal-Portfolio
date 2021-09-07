@@ -167,8 +167,7 @@ a.navbar-item {
   padding: 0;
   margin-bottom: 0px; }
 
-.columns {
-  display: flex;
+.columns.is-flex-tablet.is-flex-desktop {
   flex-direction: row;
   align-items: stretch; }
 
@@ -189,7 +188,7 @@ a.navbar-item {
   align-items: center;
   font-weight: strong; }
 
-.column.is-one-third {
+.column {
   justify-content: center;
   align-items: center; }
 

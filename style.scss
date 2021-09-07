@@ -205,8 +205,8 @@ a.navbar-item {
   margin-bottom: 0px;
 }
 
-.columns {
-  display: flex;
+.columns.is-flex-tablet.is-flex-desktop {
+  // display: flex;
   flex-direction: row;
   align-items: stretch;
 }
