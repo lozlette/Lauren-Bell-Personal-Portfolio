@@ -369,7 +369,7 @@ hr.zig, hr.zag {
 }
 
 hr.zig{
-  background: linear-gradient(-144deg, #ff6600 20px, rgba(0, 0, 0, 0) 0) 0 20px, linear-gradient(144deg, #ff6600 20px, rgba(0, 0, 0, 0) 0) 0 20px;
+  background: linear-gradient(-144deg, rgb(38, 38, 38) 20px, rgba(0, 0, 0, 0) 0) 0 20px, linear-gradient(144deg, rgb(38, 38, 38) 20px, rgba(0, 0, 0, 0) 0) 0 20px;
   background-color: rgba(0, 0, 0, 0);
   background-position: center bottom;
   background-repeat: repeat-x;
@@ -379,7 +379,7 @@ hr.zig{
 }
 
 hr.zag {
-  background: linear-gradient(-144deg, #333 20px, rgba(0, 0, 0, 0) 0) 0 20px, linear-gradient(144deg, #333 20px, #ff6600 0) 0 20px;
+  background: linear-gradient(-144deg, #ff6600 20px, rgba(0, 0, 0, 0) 0) 0 20px, linear-gradient(144deg, #ff6600 20px, rgb(38, 38, 38) 0) 0 20px;
   background-color: rgba(0, 0, 0, 0);
   background-position: center bottom;
   background-repeat: repeat-x;
