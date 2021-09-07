@@ -388,9 +388,16 @@ hr.zag {
   margin-top: -33px;
 }
 
+$orange: #ff6600;
+$width: 50px;
+$halfwidth: ($width/2);
+$thickness: 110%;
+$offset: 4px;
+$backgroundcolor: #fff;
+$linecolor: $orange;
 .zigzag {
   position: absolute;
-  width: 50px;
+  width: $width;
   z-index: 1;
   height: 100%;
   left: calc(~ '50% - 75px');
@@ -403,25 +410,24 @@ hr.zag {
     right: 0;
   }
   &:before {
-    width: (50px - 4px);
-    left: 110%;
-    background: linear-gradient(45deg, #ff6600, 50px/2, transparent 0) 0 50px/2, linear-gradient( 135deg, #ff6600, 50px/2, transparent 0) 0 50px/2;
+    width: ($width - $offset);
+    left: $thickness;
+    background: linear-gradient(45deg, $linecolor $halfwidth, transparent 0) 0 $halfwidth, linear-gradient( 135deg, $linecolor $halfwidth, transparent 0) 0 $halfwidth;
     background-position: top left;
     background-repeat: repeat-y;
-    background-size: 50px 50px;
+    background-size: $width $width;
     height: 100%;
   }
   &:after {
-    width: 50px;
+    width: $width;
     left: 100%;
-    background: linear-gradient(45deg, #fff, 50px/2, transparent 0) 0 50px/2, linear-gradient( 135deg, #fff, 50px/2, transparent 0) 0 50px/2;
+    background: linear-gradient(45deg, $backgroundcolor $halfwidth, transparent 0) 0 $halfwidth, linear-gradient( 135deg, $backgroundcolor $halfwidth, transparent 0) 0 $halfwidth;
     background-position: top left;
     background-repeat: repeat-y;
-    background-size: 50px 50px;
+    background-size: $width $width;
     height: 100%;
   }
 }
-
 @media screen and (max-device-width: 769px){
 
 body {
