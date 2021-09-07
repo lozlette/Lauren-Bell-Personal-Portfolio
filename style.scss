@@ -134,6 +134,15 @@ a.navbar-item {
   animation-delay: 4.5s;
 }
 
+.fadeIn.five {
+  -webkit-animation-name: fadeIn;
+	animation-name: fadeIn;
+  -webkit-animation-delay: 5.5s;
+  -moz-animation-delay: 5.5s;
+  animation-delay: 5.5s;
+}
+
+
 #heroTitle.title {
   color: #ffffff;
   font-family: 'Roboto', sans-serif;

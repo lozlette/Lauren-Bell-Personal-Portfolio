@@ -105,6 +105,13 @@ a.navbar-item {
   -moz-animation-delay: 4.5s;
   animation-delay: 4.5s; }
 
+.fadeIn.five {
+  -webkit-animation-name: fadeIn;
+  animation-name: fadeIn;
+  -webkit-animation-delay: 5.5s;
+  -moz-animation-delay: 5.5s;
+  animation-delay: 5.5s; }
+
 #heroTitle.title {
   color: #ffffff;
   font-family: 'Roboto', sans-serif;
@@ -346,7 +353,7 @@ hr.zag {
   .zigzag:after {
     width: 50px;
     left: 100%;
-    background: linear-gradient(45deg, #fff 25px, transparent 0) 0 25px, linear-gradient(135deg, #fff 25px, transparent 0) 0 25px;
+    background: linear-gradient(45deg, #262626 25px, transparent 0) 0 25px, linear-gradient(135deg, #262626 25px, transparent 0) 0 25px;
     background-position: top left;
     background-repeat: repeat-y;
     background-size: 50px 50px;
