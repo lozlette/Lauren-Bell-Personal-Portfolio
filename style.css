@@ -331,6 +331,11 @@ hr.zag {
   margin-top: -33px; }
 
 .zigzag {
+  -webkit-animation-duration: 2s;
+  animation-duration: 2s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  text-align: center;
   position: absolute;
   width: 50px;
   z-index: 1;
