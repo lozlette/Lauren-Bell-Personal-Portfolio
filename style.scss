@@ -397,6 +397,33 @@ hr.zag {
   margin-top: -33px;
 }
 
+hr.zig.right, hr.zag.right {
+  border: none;
+  height: 37.5px;
+  margin: 0 100px 0 600px;
+}
+
+hr.zig.right{
+  background: linear-gradient(-144deg, rgb(38, 38, 38) 20px, rgba(0, 0, 0, 0) 0) 0 20px, linear-gradient(144deg, rgb(38, 38, 38) 20px, rgba(0, 0, 0, 0) 0) 0 20px;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: center bottom;
+  background-repeat: repeat-x;
+  background-size: 60px 25px;
+  z-index: 100;
+  position: relative;
+}
+
+hr.zag.right {
+  background: linear-gradient(-144deg, #ff6600 20px, rgba(0, 0, 0, 0) 0) 0 20px, linear-gradient(144deg, #ff6600 20px, rgb(38, 38, 38) 0) 0 20px;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: center bottom;
+  background-repeat: repeat-x;
+  background-size: 60px 25px;
+  z-index: 50;
+  margin-top: -33px;
+}
+
+
 $orange: #ff6600;
 $width: 50px;
 $halfwidth: ($width/2);
@@ -442,6 +469,7 @@ $linecolor: $orange;
     height: 100%;
   }
 }
+
 @media screen and (max-device-width: 769px){
 
 body {
